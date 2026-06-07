@@ -1,4 +1,4 @@
-# 📊 Data Analyst Job Market Analysis (2023)
+# 📊 Data Job Market Analysis (2023)
 
 ## 📌 Project Overview
 
